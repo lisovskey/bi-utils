@@ -8,7 +8,7 @@ with open('requirements.txt') as file:
     install_requires = file.read().splitlines()
 
 setuptools.setup(
-    name='bi-utils-gismart',
+    name='bi-utils',
     version='0.2.0',
     author='gismart',
     author_email='info@gismart.com',
