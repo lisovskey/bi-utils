@@ -29,5 +29,5 @@ If you have your credentials on AWS add the following environment variables to u
 ### Running tests
 
 ```bash
-pytest tests
+pytest
 ```
